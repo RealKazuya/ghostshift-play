@@ -1,0 +1,1 @@
+import{t as e}from"./canary-worker-eNsy1i6K.js";var t=/* @__PURE__ */ e(((e,t)=>{t.exports={}}));export default t();
